@@ -114,4 +114,4 @@ fun Main(args: Array<String>) {
     }// while not D
 
 
-}//end of fun Quiz
+}//end of fun Main
